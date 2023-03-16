@@ -1,0 +1,91 @@
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1678898021000,
+    "img_width": 240,
+    "img_height": 240,
+    "processing_time_ms": 341.045013,
+    "regions_of_interest": [],
+    "results": [
+        {
+            "plate": "IB1275K1",
+            "confidence": 85.426895,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "",
+            "region_confidence": 0,
+            "processing_time_ms": 340.696014,
+            "requested_topn": 10,
+            "coordinates": [
+                {
+                    "x": -4,
+                    "y": -2
+                },
+                {
+                    "x": 242,
+                    "y": -2
+                },
+                {
+                    "x": 242,
+                    "y": 226
+                },
+                {
+                    "x": -4,
+                    "y": 226
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "IB1275K1",
+                    "confidence": 85.426895,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "IB127SK1",
+                    "confidence": 85.066864,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "IB1275KI",
+                    "confidence": 83.470970,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "IB127SKI",
+                    "confidence": 83.110931,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "IB1275KW",
+                    "confidence": 82.925766,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "IB127SKW",
+                    "confidence": 82.565727,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "IB1275K",
+                    "confidence": 82.017342,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "IB127SK",
+                    "confidence": 81.657310,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "XB1275K1",
+                    "confidence": 79.678909,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "1B1275K1",
+                    "confidence": 79.571831,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ]
+}
